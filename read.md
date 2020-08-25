@@ -1,7 +1,7 @@
 # Ganpati Bappa Moriya
 Selection on Backend Language Java VS Php Pending
 
-THE IDEA ATTENDANCE MAKER - 3 Dashbords 
+THE IDEA ATTENDANCE MAKER - 3 Dashboard 
 
         - ADMIN : For managing teachers 
             - Adding Teacher and Students
