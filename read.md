@@ -1,20 +1,20 @@
 # Ganpati Bappa Moriya
 Selection on Backend Language Java VS Php Pending
 
-THE IDEA ATTENDENCE MAKER - 3 Dashbords 
+THE IDEA ATTENDANCE MAKER - 3 Dashbords 
 
         - ADMIN : For managing teachers 
             - Adding Teacher and Students
          
-        - STUDENT : for marking attendence
-            - Student should able to mark attendence 
+        - STUDENT : for marking attendance
+            - Student should able to mark attendeace 
             - Student should sign in using Valid Username Password and Enrollment Number
-            - Check Attendence of Subject
+            - Check Attendance of Subject
 
         - TEACHER  : For adding students 
             - Teacher should add Subject and class
-            - Start taking attendence(Just Like Class)
-            - Check the attendence
+            - Start taking attendance(Just Like Class)
+            - Check the attendance
             - Export in PDF and Excel
 
 Extensions Used
