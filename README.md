@@ -19,23 +19,23 @@ THE IDEA ATTENDANCE MAKER - 3 Dashboard
         
 Extensions Used
 
-Auto close
-Auto Complete Tag
-Languages all
-Auto git Keep
-Auto Rename Tag
-CSS Peek
-Format HTML in Php
-HTML BoilerPlate
-HTML Class Suggestion
-Live Server
-Php Intellisence
-Php Extension
-Php Server
-Prettier Code Formatter
-Save Typing
-SQLTools
-SQLTools mysql/mariadb
-VScode-pdf
+01) Auto close
+02) Auto Complete Tag
+03) Languages all
+04) Auto git Keep
+05) Auto Rename Tag
+06) CSS Peek
+07) Format HTML in Php
+08) HTML BoilerPlate
+09) HTML Class Suggestion
+10) Live Server
+11) Php Intellisence
+12) Php Extension
+13) Php Server
+14) Prettier Code Formatter
+15) Save Typing
+16) SQLTools
+17) SQLTools mysql/mariadb
+18) VScode-pdf
 
 git remote add origin https://github.com/Alpha-Beta-Gamma-Theta/Attendance-Manager.git
