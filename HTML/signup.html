@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMS | Login</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="/CSS/headerfooter.css">
+    <link rel="stylesheet" href="/CSS/styleLoginSignup.css">
+</head>
+<body>
+    <header class="bg-dark d-flex align-items-center justify-content-between header">
+        <div class="webname text-light d-flex">
+            <div id="siteLogo">
+                <img src="/Images/siteLogo.png" alt="">
+            </div>
+            <div id="siteName" class="d-flex">
+                <a href="#">Attendance Marker</a>
+            </div>
+        </div>
+        <nav class="navbar navbar-expand">
+            <a href="#" class="btn btn-light">About Us</a>
+            <a href="login.html" class="btn btn-light">Login</a>
+            <a href="#" class="btn btn-light">Signup</a>
+        </nav>
+    </header>
+    <div class="form-container d-flex justify-content-center align-items-center">
+        <form method="post">
+            <div class="form">
+                <div class="inputField">
+                    <label for="name" class="Field">Name <span class="red">*</span></label>
+                    <input type="text" name="name" id="name" required class="form-control input">
+                </div>
+                <div class="inputField">
+                    <label for="contact" class="Field">Phone Number <span class="red">*</span></label>
+                    <input type="number" name="contact" id="contact" required class="form-control input">
+                </div>
+                <div class="inputField">
+                    <label for="email" class="Field">Email <span class="red">*</span></label>
+                    <input type="email" name="email" id="email" required class="form-control input">
+                </div>
+                <div class="inputField">
+                    <label for="rollNum" class="Field">Enrollment Number <span class="red">*</span></label>
+                    <input type="number" name="rollNum" id="rollNum" required class="form-control input">
+                </div>
+                <div class="inputField">
+                    <button type="submit" class="btn btn-dark">Submit</button>
+                </div>
+                <span>Having an account? <a href="login.html">Sign in</a></span>
+            </div>
+        </form>
+    </div>
+    <footer class="text-light footer bg-dark d-flex justify-content-center align-items-center">
+        All Rights Reserved | TeamName | Copyright &copy; 2020
+    </footer>
+</body>
+</html>
